@@ -18,7 +18,7 @@ footer{
 main{
     display: flex;
     justify-content: center;
-    background-color: aqua;
+    background-color: aquamarine;
 }
 img{
     max-width: 80px;
@@ -45,4 +45,7 @@ article{
 }
 .flex{
     display: flex;
+}
+.active{
+    background-color: aqua;
 }
